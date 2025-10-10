@@ -23,7 +23,7 @@ repository               : "IsmaelV/IsmaelV.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Headshot_small.png"
   name             : "Ismael Villegas Molina"
   pronouns         : "he/him/el" 
   bio              : "Ph.D. Candidate @ UCSD | Computer Science Education | U.S. Latines in Computing"
