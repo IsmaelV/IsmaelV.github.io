@@ -2,9 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
@@ -15,3 +13,4 @@ redirect_from:
         data="{{ base_path }}/files/CV_Ismael_Villegas_Molina.pdf"
         width="600"
         height="700">
+</object>
