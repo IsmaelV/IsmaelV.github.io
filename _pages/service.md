@@ -37,14 +37,14 @@ Graduate Students
 * [Marlyn Arque Rupa](https://www.linkedin.com/in/marlynarquerupa/) (BS and MS)
 
 Undergraduate Students
-* [Josue Martinez](https://www.linkedin.com/in/josueemartinezz/) | Now a SWE @ GE Aerospace
+* [Josue Martinez](https://www.linkedin.com/in/josueemartinezz/) <code>&#124;</code> Now a SWE @ GE Aerospace
 * [Nawab Mulla](https://www.linkedin.com/in/nawabmulla/)
 * [Ethan Perez](https://www.linkedin.com/in/ethan-perez-8b3926229/)
 * Korey Ray
 * [Roxanna Ferrer Rios](https://www.linkedin.com/in/roxanna-ferrer-rios-564b88291/)
 * Miguel Castillo
 * [Zaide Pasion](https://www.linkedin.com/in/zaidepasion/)
-* [Ginger Smith](https://www.linkedin.com/in/ginger-smith-gs/) | Now a Ph.D. at CMU
+* [Ginger Smith](https://www.linkedin.com/in/ginger-smith-gs/) <code>&#124;</code> Now a Ph.D. at CMU
 * [Apollo Larragoitia](https://www.linkedin.com/in/apollo-larragoitia-458b5324a/)
 
 
