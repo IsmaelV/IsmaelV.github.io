@@ -2,7 +2,7 @@
 title: "Faculty Identities and Their Effects on Implementing Culturally Relevant Pedagogies at Hispanic-Serving Institutions"
 collection: publications
 permalink: /publication/hsi_faculty_interviews_race
-excerpt: 'excerpt'
+excerpt: "The CS education research community has increasingly embraced researcher positionality as an important aspect influencing our research. However, how CS educators' positionality impacts pedagogical choices is less known. In the U.S., where this study takes place, Black, Latine, Native, and Pacific Islander people are even less represented among CS faculty than among CS students in higher education. Recent work documents the benefits of culturally-relevant pedagogies in CS and strategies for implementation at the higher education level. This study investigates how CS faculty's racial/ethnic identity impacts their use of these pedagogical strategies that leverage students' culture. We interviewed 21 CS faculty at Hispanic-Serving Institutions in the U.S., five of whom identified as Latine, and report findings of a phenomenographic analysis, including benefits of Latine identity alignment, and strategies of non-Latine faculty to achieve cultural competence."
 date: 2025-10-24
 venue: 'Proceedings of the 3rd ACM Global Computing Education Conference (CompEd)'
 citation: <b>Ismael Villegas Molina</b>, Emma Hogan, Nawab Mulla, Josue Martinez, Bill Griswold, Leo Porter, and Adalbert Gerald Soosai Raj. 2025. Faculty Identities and Their Effects on Implementing Culturally Relevant Pedagogies at Hispanic-Serving Institutions. Proceedings of the 3rd ACM Global Computing Education Conference (CompEd). (October 2025). <a href="https://doi.org/10.1145/3736181.3747163"> https://doi.org/10.1145/3736181.3747163</a>

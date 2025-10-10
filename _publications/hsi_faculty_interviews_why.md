@@ -2,7 +2,7 @@
 title: "Faculty Reasons For Using or Refraining From Culturally Relevant Pedagogies at Hispanic-Serving Institutions"
 collection: publications
 permalink: /publication/hsi_faculty_interviews_why
-excerpt: 'excerpt'
+excerpt: 'Culturally Relevant Computing (CRC) has shown positive effects on K-12 students. However, little is known about its implementation in higher education. This study explores why computer science (CS) educators at Hispanic-Serving Institutions (HSIs) incorporate or refrain from using culture in computing curricula. Key takeaways include resistance to CRC among non-Latine faculty, often rooted in beliefs that culture is irrelevant to computing. Conversely, both Latine and non-Latine professors cited student experience, particularly engagement and belonging, as a strong motivator for incorporating CRC. Additionally, some non-Latine professors drew upon their own lived experiences to create more inclusive learning environments.'
 date: 2025-07-14
 venue: 'Proceedings of the 2025 Conference on Research on Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT)'
 citation: <b>Ismael Villegas Molina</b>, Emma Hogan, Josue Martinez, Nawab Mulla, Bill Griswold, Leo Porter, and Adalbert Gerald Soosai Raj. 2025. Faculty Reasons For Using or Refraining From Culturally Relevant Pedagogies at Hispanic-Serving Institutions. Proceedings of the 2025 Conference on Research on Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT). (July 2025). <a href="https://doi.org/10.1145/3704637.3734760"> https://doi.org/10.1145/3704637.3734760</a>
