@@ -11,7 +11,7 @@ Recognizing meaningful efforts to advance equity, inclusion, and diversity withi
 ## [NSF CISE Education and Workforce Award \#2417787 ($300,000 | 2 years), 2024](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2417787&HistoricalAwards=false)
 * <b>Project Title</b>: Generation and Evaluation of Culturally Relevant Computing Resources for Latines in Introductory Programming
 * <b>Project Role</b>: Lead PhD Student; Lead Writer
-* <b>Project Team</b>: Gerald Soosai Raj (PI)
+* <b>Project Team</b>: Ismael Villegas Molina (Lead PhD student), Audria Montalvo (PhD student), and Gerald Soosai Raj (PI)
 * <b>Funding Period</b>: September 2024 - August 2026
 
 Aiming to enhance computer science education to Latine students, create a culturally relevant textbook for introductory computing courses, and assess the textbook's efficacy on Latine student engagement, learning, and retention compared to traditional textbooks.
