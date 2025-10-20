@@ -1,11 +1,11 @@
 ---
-title: "CSE8A: Introduction to Programming"
+title: "[Spring 2023] CSE8A: Introduction to Programming"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/cse8a_spring2023
 venue: "UC San Diego, Computer Science and Engineering"
 term: Spring 2023
-date: 2023-05-30
+# date: 2023-05-30
 ---
 
 
