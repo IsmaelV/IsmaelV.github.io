@@ -6,6 +6,7 @@ permalink: /teaching/cse8a_ss1_25
 venue: "UC San Diego, Computer Science and Engineering"
 term: Summer Session 1 2025
 date: 2025-07-30
+url: https://sites.google.com/ucsd.edu/cse8a-summersession1-2025/home
 ---
 
 
