@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "IVM | Service and Mentoring"
+title: "Service and Mentoring"
 permalink: /service/
 ---
 
