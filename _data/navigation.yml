@@ -14,8 +14,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
   
-  - title: "Service and Mentoring"
-    url: "/service/"
+  - title: "Diversity"
+    url: "/diversity/"
+
+  - title: "Mentoring"
+    url: "/mentoring/"
   
   - title: "Awards and Funding"
     url: "/awards/"
