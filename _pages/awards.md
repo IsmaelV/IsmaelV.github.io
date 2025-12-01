@@ -7,7 +7,7 @@ permalink: /awards/
 Below is a list of awards that I have won either as recognitions or as funding (e.g., grants, scholarships, fellowships).
 
 ## Chair's Award for Best Student Paper @ CompEd 2025
-Very happy to say that my paper on how computer science faculty racial identities may affect how they may (or may not) leverage culture inside the classroom at Hispanic-Serving Institutions! Check out the paper here: https://dl.acm.org/doi/pdf/10.1145/3736181.3747163
+Very happy to say that my paper on how computer science faculty racial identities may affect how they may (or may not) leverage culture inside the classroom at Hispanic-Serving Institutions! Check out the paper [here](https://dl.acm.org/doi/pdf/10.1145/3736181.3747163): [https://dl.acm.org/doi/pdf/10.1145/3736181.3747163](https://dl.acm.org/doi/pdf/10.1145/3736181.3747163)
 
 I presented this work for the 2025 ACM Global Computing Education (CompEd) Conference in Gaborone, Botswana. I had a lovely time and all the other papers nominated were also outstanding! Highly recommend this conference in the future to all who read this.
 
