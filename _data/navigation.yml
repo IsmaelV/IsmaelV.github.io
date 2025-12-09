@@ -22,6 +22,9 @@ main:
   
   - title: "Awards"
     url: "/awards/"
+  
+  - title: "Other Interests"
+    url: "/other_interests/"
         
   - title: "CV"
     url: /cv/
