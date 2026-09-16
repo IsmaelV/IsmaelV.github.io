@@ -8,7 +8,7 @@ This page is dedicated to things outside of academia that I have particular inte
 
 ## Music
 
-Music has been an enormous part of my ife. Though my parents weren't musicians themselves, they encouraged me at a young age to learn to play piano, for which I'm eternally grateful! I started when I was about 6 years old and continued to play regularly until the end of high school (where I also taught piano to kids in my community).
+Music has been an enormous part of my life. Though my parents weren't musicians themselves, they encouraged me at a young age to learn to play piano, for which I'm eternally grateful! I started when I was about 6 years old and continued to play regularly until the end of high school (where I also taught piano to kids in my community).
 
 However, my main instrument these days is the trombone! I started learning in 4th grade and never put it down. I joined any and all groups I could while I was in high school (e.g., jazz, marching, wind ensemble, honor band, honor orchestra, [banda sinaloense](https://en.wikipedia.org/wiki/Banda_music){:target="_blank"} started by my brother, Swiss polka). I got really into jazz and almost decided to be a music major when going into college!
 
